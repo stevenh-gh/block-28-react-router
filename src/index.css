@@ -49,3 +49,10 @@
      background-color: green;
      color: white;
    }
+
+   .footer {
+     display: flex;
+     justify-content: space-evenly;
+     margin-top: 10px;
+     background-color: lightgray;
+   }
